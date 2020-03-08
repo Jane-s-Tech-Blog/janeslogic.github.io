@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Is MEC for real!
 published: true
 ---
 
